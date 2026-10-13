@@ -1,12 +1,14 @@
 # Zion
 
-**Public infrastructure for trust in agents.** The eval layer for the long-horizon era.
+**Public infrastructure for trust in agents.** *The eval layer for the long-horizon era.*
 
 ![Zion](hero.webp)
 
 Every repo here answers one question: **how do I know I am right?**
 
-Commercial eval vendors sell SaaS dashboards. Nobody owns the open, adversarial, public verification layer. We are building it. Our differentiator is checkable: every rule is wired to a running hook. **Prose is not enforcement.**
+Commercial eval vendors sell SaaS dashboards. Nobody owns the open, adversarial,
+public verification layer. We are building it. Our differentiator is checkable:
+every rule is wired to a running hook. **Prose is not enforcement.**
 
 ## The family
 
@@ -18,7 +20,7 @@ Commercial eval vendors sell SaaS dashboards. Nobody owns the open, adversarial,
 | [protobuf-fuzz-guard](https://github.com/Zion-sewers/protobuf-fuzz-guard) | Protobuf schema CVE scanning plus fuzz-harness generation in four languages. |
 | [sqltok](https://github.com/Zion-sewers/sqltok) | Token-budgeted schema selection for Text-to-SQL. |
 | [claude-setup](https://github.com/Zion-sewers/claude-setup) | A personal agent OS you can inspect. |
-| [claude-memes-skills](https://github.com/Zion-sewers/claude-memes-skills) | The fun surface: event-driven meme GIFs for Claude Code. |
+| [claude-memes-skills](https://github.com/Zion-sewers/claude-memes-skills) | The fun surface: event-driven meme GIFs for Claude Code. Home of the monster mascots. |
 
 ## Doctrine
 
@@ -27,7 +29,12 @@ Commercial eval vendors sell SaaS dashboards. Nobody owns the open, adversarial,
 - Adversarial-honest: every README has an honest-limits section.
 - No counter = invisible = no pride.
 
+## Brand
+
+Typography, palette, placements, and asset rules: [brand/BRAND.md](brand/BRAND.md).
+
 ## Follow the work
 
+- Blog (canonical): [ShovalBenjer/daily-deep-learning](https://github.com/ShovalBenjer/daily-deep-learning)
 - Kanban: the Zion project board is the system of record.
 - Releases ship with runnable demos. No demo, no release.
