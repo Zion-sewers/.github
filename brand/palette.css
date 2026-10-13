@@ -1,0 +1,7 @@
+:root {
+  --zion-vault: #101210;   /* primary dark */
+  --zion-bone: #F5F1E6;    /* primary light */
+  --zion-brass: #D9A13B;   /* primary accent — the one color that means Zion */
+  --zion-signal: #B3402A;  /* verdicts: FINDING, REFUTED, failed gates */
+  --zion-slate: #5C6B5A;   /* supporting: secondary text, borders */
+}
