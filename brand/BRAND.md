@@ -78,6 +78,13 @@ glowing blue networks, code rain, lens flare, generic cyber.
   a static image cannot (a flow, a state machine, a scoreboard over time).
 - Don't: decorative loops, spinning logos, animated backgrounds. Motion must teach.
 
+**Video bar (Shoval-approved 2026-10-13, from the Cayley-Encoder reference):**
+- Keynote frame: brand header + artifact title on every frame.
+- Custom mechanism diagrams, animated. Never stock. Ours: mcp-guard
+  probe→classify flow, the agentgate judge pipeline.
+- One idea per scene, 4–6 seconds per beat, dip-to-white cuts.
+- Burned-in text, fully legible muted. Serif statements, generous whitespace.
+
 ## 6. Files in this directory
 
 - `BRAND.md` — this book.
